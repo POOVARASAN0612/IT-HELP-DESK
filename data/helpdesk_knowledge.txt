@@ -1,0 +1,85 @@
+AI IT Helpdesk Knowledge Base
+
+
+NETWORK ISSUES
+
+Problem: Wi-Fi connected but internet is not working.
+
+Troubleshooting:
+1. Check whether other devices can access the internet.
+2. Disconnect and reconnect to the Wi-Fi network.
+3. Check whether airplane mode is disabled.
+4. Restart the computer.
+5. Restart the router if possible.
+6. Check whether the problem affects only one website or all websites.
+7. Contact the network administrator if the issue continues.
+
+
+Problem: Computer cannot connect to Wi-Fi.
+
+Troubleshooting:
+1. Make sure Wi-Fi is enabled.
+2. Check that the correct wireless network is selected.
+3. Re-enter the Wi-Fi password.
+4. Restart the computer.
+5. Restart the router.
+6. Check whether other devices can connect.
+7. Contact IT support if the problem continues.
+
+
+LOGIN ISSUES
+
+Problem: User cannot log in to the system.
+
+Troubleshooting:
+1. Check the username.
+2. Verify that Caps Lock is not enabled.
+3. Re-enter the password carefully.
+4. Use the organization's password-reset procedure if the password is forgotten.
+5. Check whether the account has been locked.
+6. Contact IT support if the account remains inaccessible.
+
+
+SLOW COMPUTER
+
+Problem: Computer is running slowly.
+
+Troubleshooting:
+1. Close unnecessary applications.
+2. Close unused browser tabs.
+3. Restart the computer.
+4. Check available storage space.
+5. Install approved system updates.
+6. Avoid running too many applications simultaneously.
+7. Contact IT support if the problem continues.
+
+
+APPLICATION ISSUES
+
+Problem: Application is not opening.
+
+Troubleshooting:
+1. Restart the application.
+2. Restart the computer.
+3. Check whether an approved update is available.
+4. Verify that the application is installed correctly.
+5. Check whether the application is working for other users.
+6. Contact IT support if the application continues to fail.
+
+
+KEYBOARD AND MOUSE
+
+Problem: Keyboard or mouse is not working.
+
+Troubleshooting:
+1. Check the physical connection.
+2. Reconnect the USB device.
+3. Try another USB port.
+4. Restart the computer.
+5. Replace the batteries if the device is wireless.
+6. Contact IT support if the device still does not work.
+
+
+GENERAL IT SUPPORT
+
+For problems that cannot be resolved using the available troubleshooting information, the user should contact the appropriate IT support team.
